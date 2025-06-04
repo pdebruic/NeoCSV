@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Neo-CSV-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header",
+		"data",
+		"types"
+	],
+	"name" : "NeoCSVData",
+	"type" : "normal"
+}

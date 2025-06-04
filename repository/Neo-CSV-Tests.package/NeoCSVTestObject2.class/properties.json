@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "NeoCSVTestObject",
+	"category" : "Neo-CSV-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NeoCSVTestObject2",
+	"type" : "normal"
+}
